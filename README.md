@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Steven 👋
 
-<!--
-**STVND/STVND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
 
-Here are some ideas to get you started:
+I'm new to tech and have had a wonderful time learning programming and find it to be a great exercise in curiosity and self-expression. For now, I'm sharpening my backend skills and occasionally dabbling in digital art (though my stylus is gathering a bit of dust lately).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ About Me
+
+- 💡 Currently loving backend systems moreso than front end systems, but enjoy the challenge of full-stack.
+- 🎨 Aspiring graphics programmer | Casual digital artist (when inspiration strikes)
+- 🛠️ Top skills:  
+  - Go (Golang)
+  - Java
+  - TypeScript
+
+## 🔥 Favorite Project
+
+[texture-toolkit](https://github.com/STVND/texture-toolkit)  
+A project close to my heart as I learn and grow in the world of code and pixels.
+
+## 🌐 Find Me Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/me-steven/)
+- [Artstation](https://www.artstation.com/me_steven)
+
+---
+
+> Still learning, still making mistakes, but at least my code compiles (most of the time).
